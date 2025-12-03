@@ -11,20 +11,22 @@ const Message = () => {
         className="max-w-2xl bg-white/80 backdrop-blur-sm p-8 rounded-xl shadow-xl text-center"
       >
         <h1 className="text-3xl font-bold text-gray-800 mb-6">
-          Dear Madam Ji,
+          Dear Shreyasi,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Even though we have met recently & i guess we know nothing about eachother but this
-          is my kindness to show you how much i value people.This is a way 
-          to show that our friendship just started and i hope we will be making some great memories together.
-          I'm starting this new year with a new friend as you and i hope our friendship will last forever.
+          Happiest Birthday Shreyasi!!🎂
+So actually this is the first tor bday te ami tor sathe tor pase achi.Haa hoyto ami kono gift dite parbona toke im very sorry for that but ei ta promise korte pari that your upma will always be with you at your side at your lowest he will always be there.. And i hope we will be making some great memories together 
+Ar ha jai koris ar poris na jeno sobsomoy
+Always stay blessed 💕 and bhalo thakis sobsomoy 
+
         </p>
         <p className="text-lg text-pink-600 font-semibold">
-          and on your special day, i wish you the happiest birthday
+          ~Yours Upma
         </p>
       </motion.div>
     </div>
   );
 };
+
 
 export default Message;
