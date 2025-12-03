@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import { Heart, Sparkles } from 'lucide-react';
 
 const messages = [
-  "Hello Madam Jiiii",
+  "Hello Jiiii",
   "It's Your Special Day Yeyey!",
   "So, i had to make something special for you cause you are special to me!",
   "Do you wanna see what I made??"
@@ -117,7 +117,7 @@ const BirthdayGreeting = () => {
               className="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-xl text-center"
             >
               <p className="text-2xl font-semibold text-gray-800">
-                Have a look at it, Madam Jiii
+                Have a look at it
               </p>
             </motion.div>
           )}
@@ -128,3 +128,4 @@ const BirthdayGreeting = () => {
 };
 
 export default BirthdayGreeting;
+
