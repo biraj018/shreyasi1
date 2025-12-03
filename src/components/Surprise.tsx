@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 import { Music, Cake as CakeIcon } from 'lucide-react';
 import Banner from './images/banner.png';
-import Musicc from 'src/components/musicc.mp3';
+import Musicc from 'musicc.mp3';
 import CatCake from './images/cat-face-cake.jpg'
 const Surprise = () => {
   const [stage, setStage] = useState(0);
@@ -153,6 +153,7 @@ const Surprise = () => {
 };
 
 export default Surprise;
+
 
 
 
